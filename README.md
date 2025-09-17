@@ -13,18 +13,13 @@ Linux gaming enjoyer • Bazzite contributor • Decky plugin maker
 ---
 
 ### Featured Projects
-- [Decky Lossless Scaling](https://github.com/xXJSONDeruloXx/decky-lossless-scaling-vk) – Framegen and scaling plugin  
-- [OptiScaler](https://github.com/xXJSONDeruloXx/OptiScaler) – DLL injection + Decky management layer  
-- [Bazzite PRs](https://github.com/ublue-os/bazzite/pulls?q=is%3Apr+author%3AxXJSONDeruloXx) – Kernel, ZRAM, wake fixes, etc.  
+- [Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) – Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (TypeScript, 882 stars, 24 forks)
+- [OptiScaler-Bleeding-Edge](https://github.com/xXJSONDeruloXx/OptiScaler-Bleeding-Edge) – Workflow to get latest optiscaler build, and bring in useful files from other repos
+- [decky-optiscaler](https://github.com/xXJSONDeruloXx/decky-optiscaler)
+- [bazzite-buddy](https://github.com/xXJSONDeruloXx/bazzite-buddy) – Work in progress plugin to view bazzite changelog easily
+- [decky-lsfg-vk](https://github.com/xXJSONDeruloXx/decky-lsfg-vk) – Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux
 
 ---
-
-### GitHub Stats
-![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXJSONDeruloXx&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXJSONDeruloXx&layout=compact&theme=radical)
-
----
-
 
 ### Links
 [GitHub](https://github.com/xXJSONDeruloXx) • [uBlue/Bazzite](https://github.com/ublue-os/bazzite) • [Reddit (supershredderdan)](https://reddit.com/u/supershredderdan)
