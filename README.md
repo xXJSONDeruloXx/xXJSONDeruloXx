@@ -26,9 +26,7 @@ Linux gaming enjoyer • Bazzite contributor • Decky plugin maker
 ### Articles
 
 - [This Steam Deck mod can double your frame rates in game, thanks to AMD FSR 3.1](https://www.pcgamesn.com/steam-deck/decky-framegen-plugin?utm_source=chatgpt.com) — PCGamesN  
-- [Lossless Scaling Frame Gen gets a Decky Loader Steam Deck plugin but there’s drama](https://www.gamingonlinux.com/2025/07/lossless-scaling-frame-gen-gets-a-decky-loader-steam-deck-plugin-but-theres-drama/?utm_source=chatgpt.com) — GamingOnLinux  
-- [I’ve been dying for Steam Deck frame generation — so why is it so disappointing?](https://www.digitaltrends.com/computing/steam-deck-frame-generation-impressions/?utm_source=chatgpt.com) — Digital Trends  
-- [Steam Deck - How To Unlock Double The FPS With Decky Framegen](https://gamerant.com/steam-deck-get-double-fps-how-download-decky-framegen/?utm_source=chatgpt.com) — GameRant  
+- [Steam Deck - How To Unlock Double The FPS With Decky Framegen](https://gamerant.com/steam-deck-get-double-fps-how-download-decky-framegen) — GameRant  
 - [Steam Deck fans, you’re in for a good one — AMD’s FSR 3 frame generation is now available on Valve’s handheld thanks to a new Decky plugin](https://www.techradar.com/gaming/steam-deck/steam-deck-fans-youre-in-for-a-good-one-amds-fsr-3-frame-generation-is-now-available-on-valves-handheld-thanks-to-a-new-decky-plugin) — TechRadar  
 - [Steam Deck Gets AMD FSR 3 Frame Generation Mod](https://wccftech.com/steam-deck-amd-fsr-3-frame-generation-mod/) — Wccftech  
 
