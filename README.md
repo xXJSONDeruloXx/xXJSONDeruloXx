@@ -20,6 +20,7 @@ https://www.rockpapershotgun.com/you-can-now-try-frame-generation-in-any-steam-d
 
 https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-steam-deck-is-coming/
 
+https://www.xda-developers.com/free-steam-deck-plugin-adds-better-upscaling/
 
 ---
 
