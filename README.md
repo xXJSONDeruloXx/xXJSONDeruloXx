@@ -18,6 +18,8 @@ https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES
 https://www.rockpapershotgun.com/you-can-now-try-frame-generation-in-any-steam-deck-game-with-all-the-thrilling-disclaimers-and-caveats-of-desktop-frame-gen
 
 
+https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-steam-deck-is-coming/
+
 
 ---
 
