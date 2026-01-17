@@ -22,6 +22,12 @@ https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-stea
 
 https://www.xda-developers.com/free-steam-deck-plugin-adds-better-upscaling/
 
+
+featured in top contributors to Bazzite OS
+
+https://docs.bazzite.gg/donations/
+
+
 ---
 
 ### YouTube — Decky Framegen
