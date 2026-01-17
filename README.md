@@ -15,6 +15,10 @@ https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES
 - [Steam Deck fans, you’re in for a good one — AMD’s FSR 3 frame generation is now available on Valve’s handheld thanks to a new Decky plugin](https://www.techradar.com/gaming/steam-deck/steam-deck-fans-youre-in-for-a-good-one-amds-fsr-3-frame-generation-is-now-available-on-valves-handheld-thanks-to-a-new-decky-plugin) — TechRadar  
 - [Steam Deck Gets AMD FSR 3 Frame Generation Mod](https://wccftech.com/steam-deck-amd-fsr-3-frame-generation-mod/) — Wccftech  
 
+https://www.rockpapershotgun.com/you-can-now-try-frame-generation-in-any-steam-deck-game-with-all-the-thrilling-disclaimers-and-caveats-of-desktop-frame-gen
+
+
+
 ---
 
 ### YouTube — Decky Framegen
