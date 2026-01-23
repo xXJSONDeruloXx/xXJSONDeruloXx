@@ -8,6 +8,11 @@ https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES
 
 ### Media & Coverage
 
+interview on the Gardiner Bryant blog, for SpruceOS for arm linux handhelds cfw
+
+
+https://gardinerbryant.com/talking-handheld-linux-with-the-spruce-sprig-team/
+
 ### Articles
 
 - [This Steam Deck mod can double your frame rates in game, thanks to AMD FSR 3.1](https://www.pcgamesn.com/steam-deck/decky-framegen-plugin?utm_source=chatgpt.com) — PCGamesN  
