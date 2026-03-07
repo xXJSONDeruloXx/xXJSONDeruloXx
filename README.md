@@ -13,6 +13,13 @@ interview on the Gardiner Bryant blog, for SpruceOS for arm linux handhelds cfw
 
 https://gardinerbryant.com/talking-handheld-linux-with-the-spruce-sprig-team/
 
+Mr Sujano, specifically calling out work i did for GameNative; Ui/Ux improvements and implementing amazon games library: 
+
+https://youtu.be/Az3FvgC3uDU?t=922&si=kw3U51oA2TyMxL-g
+ 
+
+
+
 ### Articles
 
 - [This Steam Deck mod can double your frame rates in game, thanks to AMD FSR 3.1](https://www.pcgamesn.com/steam-deck/decky-framegen-plugin?utm_source=chatgpt.com) — PCGamesN  
