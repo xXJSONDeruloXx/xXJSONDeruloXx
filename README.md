@@ -17,7 +17,9 @@ Mr Sujano, specifically calling out work i did for GameNative; Ui/Ux improvement
 
 https://youtu.be/Az3FvgC3uDU?t=922&si=kw3U51oA2TyMxL-g
  
+Android Authority mentioning features I contributed to in GameNative
 
+https://www.androidauthority.com/gamenative-0-8-0-pre-release-3646691/?s=09
 
 
 ### Articles
