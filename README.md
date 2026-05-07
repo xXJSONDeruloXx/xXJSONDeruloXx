@@ -1,51 +1,51 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Games%20%26%20Code-6366f1?style=for-the-badge" alt="Games & Code" />
+# xXJSONDeruloXx
 
-</div>
+*Steam Deck modder · Open source developer · Games & Code*
 
 <br>
-
-<!-- Featured -->
-<div align="center">
 
 <a href="https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES&t=735">
-  <img src="https://img.shields.io/badge/Featured%20on-Digital%20Foundry-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Digital Foundry" />
+  <img src="https://img.shields.io/badge/Featured%20on-Digital%20Foundry-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Foundry" />
 </a>
-<br>
-<sup>Decky Framegen plugin mentioned at 12:15</sup>
+&nbsp;&nbsp;
+<a href="https://docs.bazzite.gg/donations/#bazzite-core-contributors">
+  <img src="https://img.shields.io/badge/Core%20Contributor-Bazzite%20OS-FF6C00?style=for-the-badge&logo=fedora&logoColor=white" alt="Bazzite" />
+</a>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xXJSONDeruloXx)
+[![Bazzite](https://img.shields.io/badge/uBlue%2FBazzite-FF6C00?style=flat-square&logo=fedora&logoColor=white)](https://github.com/ublue-os/bazzite)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/u/supershredderdan)
 
 </div>
 
-<br>
+---
 
-<!-- Media Grid -->
-<table>
-<tr>
-<td width="50%">
+## Projects
 
-### Interviews
+<div align="center">
 
-[![Gardiner Bryant](https://img.shields.io/badge/Gardiner%20Bryant-SpruceOS%20Interview-6366f1?style=flat-square)](https://gardinerbryant.com/talking-handheld-linux-with-the-spruce-sprig-team/)
-
-</td>
-<td width="50%">
-
-### Video Mentions
-
-[![Mr Sujano](https://img.shields.io/badge/Mr%20Sujano-GameNative%20UI%2FUX%20%26%20Amazon-FF6B6B?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/Az3FvgC3uDU?t=922)
-
-[![Android Authority](https://img.shields.io/badge/Android%20Authority-GameNative%20Features-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.androidauthority.com/gamenative-0-8-0-pre-release-3646691/)
-
-</td>
-</tr>
-</table>
+[![decky-lsfg-vk](https://github-readme-stats.vercel.app/api/pin/?username=xXJSONDeruloXx&repo=decky-lsfg-vk&theme=tokyonight&hide_border=true)](https://github.com/xXJSONDeruloXx/decky-lsfg-vk)
+[![Decky-Framegen](https://github-readme-stats.vercel.app/api/pin/?username=xXJSONDeruloXx&repo=Decky-Framegen&theme=tokyonight&hide_border=true)](https://github.com/xXJSONDeruloXx/Decky-Framegen)
 
 <br>
 
-<!-- Articles -->
-<details open>
-<summary><h3>Press Coverage</h3></summary>
+![Decky LSFG-VK installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fplugins.deckbrew.xyz%2Fplugins&query=%24%5B%3F%28%40.id%3D%3D113%29%5D.downloads&label=Decky+LSFG-VK+installs&color=0ea5e9&style=flat-square&logo=steam&logoColor=white)
+&nbsp;
+![Decky Framegen installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fplugins.deckbrew.xyz%2Fplugins&query=%24%5B%3F%28%40.id%3D%3D97%29%5D.downloads&label=Decky+Framegen+installs&color=6366f1&style=flat-square&logo=steam&logoColor=white)
+
+<br>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xXJSONDeruloXx&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false)](https://github.com/xXJSONDeruloXx)
+
+</div>
+
+---
+
+## Press Coverage
 
 | Publication | Article |
 |-------------|---------|
@@ -57,24 +57,41 @@
 | Steam Deck HQ | [Decky plugin for FSR 3 frame gen mod coming](https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-steam-deck-is-coming/) |
 | XDA Developers | [Free Steam Deck plugin adds better upscaling](https://www.xda-developers.com/free-steam-deck-plugin-adds-better-upscaling/) |
 
-</details>
+---
+
+## Media
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Interviews**
+
+[![Gardiner Bryant](https://img.shields.io/badge/Gardiner%20Bryant-SpruceOS%20Interview-6366f1?style=flat-square)](https://gardinerbryant.com/talking-handheld-linux-with-the-spruce-sprig-team/)
 
 <br>
 
-<!-- YouTube -->
-<details>
-<summary><h3>YouTube Coverage</h3></summary>
+**Video Mentions**
 
-**Decky Framegen**
+[![Mr Sujano](https://img.shields.io/badge/Mr%20Sujano-GameNative%20UI%2FUX%20%26%20Amazon-FF6B6B?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/Az3FvgC3uDU?t=922)
+
+[![Android Authority](https://img.shields.io/badge/Android%20Authority-GameNative%20Features-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.androidauthority.com/gamenative-0-8-0-pre-release-3646691/)
+
+</td>
+<td valign="top" width="50%">
+
+**YouTube — Decky Framegen**
 
 [![Frame Generation Plugin](https://img.shields.io/badge/-Frame%20Generation%20Plugin-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fGgc2CY6occ)
-[![Double FPS](https://img.shields.io/badge/-Double%20FPS%20Mod-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=_nYwcfK9Xs8)
+[![Double FPS Mod](https://img.shields.io/badge/-Double%20FPS%20Mod-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=_nYwcfK9Xs8)
 [![FREE Frame Generation](https://img.shields.io/badge/-FREE%20Frame%20Generation-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o_TkF-Eiq3M)
 [![Amazing Frame Gen](https://img.shields.io/badge/-Amazing%20Frame%20Gen-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=g_kWxEpWRvg)
-[![Got Better](https://img.shields.io/badge/-Just%20Got%20Better-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dzbyIfDzBSU)
+[![Just Got Better](https://img.shields.io/badge/-Just%20Got%20Better-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dzbyIfDzBSU)
 [![Test & Guide](https://img.shields.io/badge/-Test%20%26%20Guide-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zbkgnZlktI4)
 
-**Decky LSFG VK / Lossless Scaling**
+<br>
+
+**YouTube — Decky LSFG VK**
 
 [![Beginner's Guide](https://img.shields.io/badge/-Beginner's%20Guide-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Pm38AJb-TwQ)
 [![How To Install](https://img.shields.io/badge/-How%20To%20Install-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=RfW86p4t0YA)
@@ -83,24 +100,6 @@
 [![Double Your FPS](https://img.shields.io/badge/-Double%20Your%20FPS-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3cTFfln13pc)
 [![Black Myth Wukong](https://img.shields.io/badge/-Black%20Myth%20Wukong-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=_wV2X7ZNFoo)
 
-</details>
-
-<br>
-
-<!-- Projects -->
-<div align="center">
-
-[![Bazzite](https://img.shields.io/badge/Featured%20Core%20Contributor-Bazzite%20OS-FF6C00?style=for-the-badge&logo=fedora&logoColor=white)](https://docs.bazzite.gg/donations/#bazzite-core-contributors)
-
-</div>
-
-<br>
-
-<!-- Links -->
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xXJSONDeruloXx)
-[![Bazzite](https://img.shields.io/badge/uBlue%2FBazzite-FF6C00?style=flat-square&logo=fedora&logoColor=white)](https://github.com/ublue-os/bazzite)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/u/supershredderdan)
-
-</div>
+</td>
+</tr>
+</table>
