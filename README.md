@@ -145,7 +145,7 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 <p>
   <img width="40" height="40" src="https://www.google.com/s2/favicons?domain=steamdeckhq.com&sz=128" alt="Steam Deck HQ" /> <strong>Steam Deck HQ</strong><br>
   <a href="https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-steam-deck-is-coming/">Decky plugin for FSR 3 frame gen mod coming</a><br>
-  <a href="https://steamdeckhq.com/news/the-lossless-scaling-fg-plugin-has-released-to-controversy/">Lossless Scaling frame generation plugin released to controversy</a>
+  <a href="https://steamdeckhq.com/news/lossless-scaling-plugin-is-on-decky-store/">Lossless Scaling plugin is on Decky store</a>
 </p>
 
 <p>
@@ -179,6 +179,11 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 ### GameNative implementations and contributions
 
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=XdDdsPGkWa0"><img width="360" src="https://img.youtube.com/vi/XdDdsPGkWa0/hqdefault.jpg" alt="Lossless Frame Generation on ANDROID! Gamehub, GameNative and More" /></a><br>
+  <a href="https://www.youtube.com/watch?v=XdDdsPGkWa0">Lossless Frame Generation on ANDROID! Gamehub, GameNative and More</a>
+</p>
+
+<p align="center">
   <a href="https://youtu.be/Az3FvgC3uDU?t=922"><img width="360" src="https://img.youtube.com/vi/Az3FvgC3uDU/hqdefault.jpg" alt="Mr. Sujano GameNative mention" /></a><br>
   <a href="https://youtu.be/Az3FvgC3uDU?t=922">Nintendo Strikes Again! Switch Emulator GitHub Removed, Windows Gaming on Android Gets Huge Upgrade</a><br>
   <sub>Mr. Sujano mention at 15:22</sub>
@@ -200,6 +205,11 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 </p>
 
 ### Decky LSFG-VK
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=oy_aKrvZe2s"><img width="360" src="https://img.youtube.com/vi/oy_aKrvZe2s/hqdefault.jpg" alt="Lossless Scaling + Emulation is Wild" /></a><br>
+  <a href="https://www.youtube.com/watch?v=oy_aKrvZe2s">Lossless Scaling + Emulation is Wild</a>
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=0KCXxhD-Y8s"><img width="360" src="https://img.youtube.com/vi/0KCXxhD-Y8s/hqdefault.jpg" alt="How To Use Lossless Scaling On Steam Deck" /></a><br>
