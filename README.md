@@ -36,7 +36,6 @@ Steam Deck Decky plugin for installing and managing FSR/OptiScaler-based frame g
 ![Stars](https://img.shields.io/github/stars/xXJSONDeruloXx/Decky-Framegen?style=flat-square&label=stars&color=6366f1)
 ![Forks](https://img.shields.io/github/forks/xXJSONDeruloXx/Decky-Framegen?style=flat-square&label=forks&color=6366f1)
 ![Decky Store downloads](https://img.shields.io/badge/Decky--Framegen%20Decky%20Store%20downloads-298%2C602-6366f1?style=flat-square&logo=steam&logoColor=white)
-![GitHub release downloads](https://img.shields.io/badge/Decky--Framegen%20GitHub%20release%20downloads-4%2C051%2C920-6366f1?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
@@ -48,7 +47,6 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 ![Stars](https://img.shields.io/github/stars/xXJSONDeruloXx/decky-lsfg-vk?style=flat-square&label=stars&color=0ea5e9)
 ![Forks](https://img.shields.io/github/forks/xXJSONDeruloXx/decky-lsfg-vk?style=flat-square&label=forks&color=0ea5e9)
 ![Decky Store downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20Decky%20Store%20downloads-196%2C827-0ea5e9?style=flat-square&logo=steam&logoColor=white)
-![GitHub release downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20GitHub%20release%20downloads-532%2C357-0ea5e9?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
