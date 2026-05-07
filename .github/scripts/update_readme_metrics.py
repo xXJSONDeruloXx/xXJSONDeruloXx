@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update README plugin metrics from Deckbrew and GitHub releases."""
+"""Update README plugin download metrics from Deckbrew and GitHub releases."""
 
 from __future__ import annotations
 
@@ -18,15 +18,15 @@ GITHUB_RELEASES_URL = "https://api.github.com/repos/{owner}/{repo}/releases?per_
 USER_AGENT = "xXJSONDeruloXx-profile-readme-metrics"
 
 DECKY_PLUGINS = {
-    97: {"name": "Decky-Framegen", "label": "Decky--Framegen", "color": "6366f1"},
-    113: {"name": "Decky LSFG-VK", "label": "Decky%20LSFG--VK", "color": "0ea5e9"},
-    98: {"name": "Decky-Lookup", "label": "Decky--Lookup", "color": "f59e0b"},
-    92: {"name": "Crosshair", "label": "Crosshair", "color": "ef4444"},
+    97: {"label": "Decky--Framegen", "color": "6366f1"},
+    113: {"label": "Decky%20LSFG--VK", "color": "0ea5e9"},
+    98: {"label": "Decky--Lookup", "color": "f59e0b"},
+    92: {"label": "Crosshair", "color": "ef4444"},
 }
 
 GITHUB_REPOS = {
-    "Decky-Framegen": {"owner": "xXJSONDeruloXx", "repo": "Decky-Framegen", "label": "Decky--Framegen", "color": "6366f1"},
-    "Decky LSFG-VK": {"owner": "xXJSONDeruloXx", "repo": "decky-lsfg-vk", "label": "Decky%20LSFG--VK", "color": "0ea5e9"},
+    "Decky--Framegen": {"owner": "xXJSONDeruloXx", "repo": "Decky-Framegen", "color": "6366f1"},
+    "Decky%20LSFG--VK": {"owner": "xXJSONDeruloXx", "repo": "decky-lsfg-vk", "color": "0ea5e9"},
 }
 
 
@@ -39,16 +39,10 @@ def request_json(url: str) -> object:
         return json.load(response)
 
 
-def fetch_deckbrew_metrics() -> dict[int, dict[str, int]]:
+def fetch_deckbrew_downloads() -> dict[int, int]:
     plugins = request_json(DECKBREW_PLUGINS_URL)
     by_id = {int(plugin["id"]): plugin for plugin in plugins}
-    return {
-        plugin_id: {
-            "downloads": int(by_id[plugin_id].get("downloads", 0)),
-            "updates": int(by_id[plugin_id].get("updates", 0)),
-        }
-        for plugin_id in DECKY_PLUGINS
-    }
+    return {plugin_id: int(by_id[plugin_id].get("downloads", 0)) for plugin_id in DECKY_PLUGINS}
 
 
 def fetch_github_downloads(owner: str, repo: str) -> int:
@@ -74,38 +68,26 @@ def badge_count(value: int) -> str:
     return urllib.parse.quote(f"{value:,}", safe="")
 
 
-def replace_metric_badge(markdown: str, label: str, metric: str, color: str, value: int, style: str = "flat-square") -> str:
+def replace_badge(markdown: str, label: str, metric: str, color: str, value: int) -> str:
     encoded = badge_count(value)
-    pattern = rf"({re.escape(label)}%20{re.escape(metric)}-)[0-9%2C]+(-{re.escape(color)}\?style={re.escape(style)}(?:&[^)]+)?)"
-    return re.sub(pattern, rf"\g<1>{encoded}\2", markdown)
-
-
-def replace_total_badge(markdown: str, metric: str, color: str, value: int) -> str:
-    encoded = badge_count(value)
-    pattern = rf"(total%20{re.escape(metric)}-)[0-9%2C]+(-{re.escape(color)}\?style=for-the-badge(?:&[^)]+)?)"
+    pattern = rf"({re.escape(label)}%20{re.escape(metric)}-)[0-9%2C]+(-{re.escape(color)}\?style=flat-square(?:&[^)]+)?)"
     return re.sub(pattern, rf"\g<1>{encoded}\2", markdown)
 
 
 def main() -> None:
-    deckbrew = fetch_deckbrew_metrics()
+    deckbrew = fetch_deckbrew_downloads()
     github = {
-        name: fetch_github_downloads(meta["owner"], meta["repo"])
-        for name, meta in GITHUB_REPOS.items()
+        label: fetch_github_downloads(meta["owner"], meta["repo"])
+        for label, meta in GITHUB_REPOS.items()
     }
 
     markdown = README.read_text()
 
     for plugin_id, meta in DECKY_PLUGINS.items():
-        metrics = deckbrew[plugin_id]
-        markdown = replace_metric_badge(markdown, meta["label"], "downloads", meta["color"], metrics["downloads"])
-        markdown = replace_metric_badge(markdown, meta["label"], "updates", meta["color"], metrics["updates"])
+        markdown = replace_badge(markdown, meta["label"], "Decky%20Store%20downloads", meta["color"], deckbrew[plugin_id])
 
-    for name, meta in GITHUB_REPOS.items():
-        markdown = replace_metric_badge(markdown, meta["label"], "GitHub%20downloads", meta["color"], github[name])
-
-    markdown = replace_total_badge(markdown, "Decky%20Store%20downloads", "22c55e", sum(m["downloads"] for m in deckbrew.values()))
-    markdown = replace_total_badge(markdown, "Decky%20Store%20updates", "14b8a6", sum(m["updates"] for m in deckbrew.values()))
-    markdown = replace_total_badge(markdown, "GitHub%20release%20downloads", "181717", sum(github.values()))
+    for label, meta in GITHUB_REPOS.items():
+        markdown = replace_badge(markdown, label, "GitHub%20release%20downloads", meta["color"], github[label])
 
     README.write_text(markdown)
 
