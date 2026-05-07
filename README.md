@@ -65,73 +65,95 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 
 ## Featured On
 
-<div align="center">
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=tomshardware.com&sz=128" alt="Tom's Hardware" />
+  <strong>Tom's Hardware</strong> — <a href="https://www.tomshardware.com/video-games/pc-gaming/gamenative-adds-multi-frame-generation-to-pc-games-on-android-devices-vulkan-version-of-lossless-scaling-enables-100-fps-gameplay">GameNative unlocks up to 100 fps gameplay for PC games on Android devices</a>
+</p>
 
-<a href="https://www.tomshardware.com/video-games/pc-gaming/gamenative-adds-multi-frame-generation-to-pc-games-on-android-devices-vulkan-version-of-lossless-scaling-enables-100-fps-gameplay"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=tomshardware.com&sz=128" alt="Tom's Hardware" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://videocardz.com/newz/gamenative-adds-lossless-scaling-multi-frame-generation-for-steam-games-on-android"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=videocardz.com&sz=128" alt="VideoCardz" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.pcgamesn.com/steam-deck/decky-framegen-plugin"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=pcgamesn.com&sz=128" alt="PCGamesN" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://gamerant.com/steam-deck-get-double-fps-how-download-decky-framegen"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=gamerant.com&sz=128" alt="GameRant" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.techradar.com/gaming/steam-deck/steam-deck-fans-youre-in-for-a-good-one-amds-fsr-3-frame-generation-is-now-available-on-valves-handheld-thanks-to-a-new-decky-plugin"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=techradar.com&sz=128" alt="TechRadar" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://wccftech.com/steam-deck-amd-fsr-3-frame-generation-mod/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=wccftech.com&sz=128" alt="Wccftech" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.rockpapershotgun.com/you-can-now-try-frame-generation-in-any-steam-deck-game-with-all-the-thrilling-disclaimers-and-caveats-of-desktop-frame-gen"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=rockpapershotgun.com&sz=128" alt="Rock Paper Shotgun" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-steam-deck-is-coming/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=steamdeckhq.com&sz=128" alt="Steam Deck HQ" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.xda-developers.com/free-steam-deck-plugin-adds-better-upscaling/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=xda-developers.com&sz=128" alt="XDA Developers" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.notebookcheck.net/New-Steam-Deck-mod-enables-FSR-3-1-frame-generation-for-unsupported-games.953622.0.html"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=128" alt="Notebookcheck" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.digitaltrends.com/computing/steam-deck-frame-generation-impressions/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=128" alt="Digital Trends" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.howtogeek.com/double-your-steam-deck-frame-rate-with-this-fsr-3-frame-gen-mod/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=howtogeek.com&sz=128" alt="How-To Geek" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.pcguide.com/news/fsr-4-arrives-on-steam-deck-thanks-to-decky-framegen-and-it-makes-upscaling-look-way-better/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=pcguide.com&sz=128" alt="PC Guide" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.gamingonlinux.com/2025/11/lsfg-vk-lossless-scaling-frame-gen-now-available-in-the-decky-plugin-store/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=gamingonlinux.com&sz=128" alt="GamingOnLinux" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.hardwarepremium.com/noticias/42567/gamenative-frame-generation-android/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=hardwarepremium.com&sz=128" alt="Hardware Premium" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://criticalhits.com.br/games/agora-e-possivel-ativar-multi-frame-generation-para-jogos-da-steam-no-android/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=criticalhits.com.br&sz=128" alt="Critical Hits" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://androidpctv.com/gamenative-091/"><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=androidpctv.com&sz=128" alt="AndroidPCtv" /></a>
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=techradar.com&sz=128" alt="TechRadar" />
+  <strong>TechRadar</strong> — <a href="https://www.techradar.com/gaming/steam-deck/steam-deck-fans-youre-in-for-a-good-one-amds-fsr-3-frame-generation-is-now-available-on-valves-handheld-thanks-to-a-new-decky-plugin">AMD FSR 3 frame generation now on Steam Deck</a>
+</p>
 
-</div>
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=128" alt="Digital Trends" />
+  <strong>Digital Trends</strong> — <a href="https://www.digitaltrends.com/computing/steam-deck-frame-generation-impressions/">Steam Deck frame generation impressions</a>
+</p>
 
-<br>
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=howtogeek.com&sz=128" alt="How-To Geek" />
+  <strong>How-To Geek</strong> — <a href="https://www.howtogeek.com/double-your-steam-deck-frame-rate-with-this-fsr-3-frame-gen-mod/">Double your Steam Deck frame rate with this FSR 3 frame gen mod</a>
+</p>
 
-### GameNative / LSFG-VK
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=androidauthority.com&sz=128" alt="Android Authority" />
+  <strong>Android Authority</strong> — <a href="https://www.androidauthority.com/gamenative-0-8-0-pre-release-3646691/">GameNative features coverage</a>
+</p>
 
-- **Tom's Hardware** — [GameNative unlocks up to 100 fps gameplay for PC games on Android devices](https://www.tomshardware.com/video-games/pc-gaming/gamenative-adds-multi-frame-generation-to-pc-games-on-android-devices-vulkan-version-of-lossless-scaling-enables-100-fps-gameplay)
-- **VideoCardz** — [GameNative adds Lossless Scaling frame generation for Steam games on Android](https://videocardz.com/newz/gamenative-adds-lossless-scaling-multi-frame-generation-for-steam-games-on-android)
-- **Hardware Premium** — [GameNative adds frame generation on Android](https://www.hardwarepremium.com/noticias/42567/gamenative-frame-generation-android/)
-- **Critical Hits** — [Multi-frame generation for Steam games on Android](https://criticalhits.com.br/games/agora-e-possivel-ativar-multi-frame-generation-para-jogos-da-steam-no-android/)
-- **AndroidPCtv** — [GameNative 0.9.1 release coverage](https://androidpctv.com/gamenative-091/)
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=pcgamesn.com&sz=128" alt="PCGamesN" />
+  <strong>PCGamesN</strong> — <a href="https://www.pcgamesn.com/steam-deck/decky-framegen-plugin">Steam Deck mod doubles frame rates with AMD FSR 3.1</a>
+</p>
 
-### Decky-Framegen
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=gamerant.com&sz=128" alt="GameRant" />
+  <strong>GameRant</strong> — <a href="https://gamerant.com/steam-deck-get-double-fps-how-download-decky-framegen">How To Unlock Double The FPS With Decky Framegen</a>
+</p>
 
-- **PCGamesN** — [Steam Deck mod doubles frame rates with AMD FSR 3.1](https://www.pcgamesn.com/steam-deck/decky-framegen-plugin)
-- **GameRant** — [How To Unlock Double The FPS With Decky Framegen](https://gamerant.com/steam-deck-get-double-fps-how-download-decky-framegen)
-- **TechRadar** — [AMD FSR 3 frame generation now on Steam Deck](https://www.techradar.com/gaming/steam-deck/steam-deck-fans-youre-in-for-a-good-one-amds-fsr-3-frame-generation-is-now-available-on-valves-handheld-thanks-to-a-new-decky-plugin)
-- **Wccftech** — [Steam Deck Gets AMD FSR 3 Frame Generation Mod](https://wccftech.com/steam-deck-amd-fsr-3-frame-generation-mod/)
-- **Rock Paper Shotgun** — [Frame generation in any Steam Deck game](https://www.rockpapershotgun.com/you-can-now-try-frame-generation-in-any-steam-deck-game-with-all-the-thrilling-disclaimers-and-caveats-of-desktop-frame-gen)
-- **Steam Deck HQ** — [Decky plugin for FSR 3 frame gen mod coming](https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-steam-deck-is-coming/)
-- **XDA Developers** — [Free Steam Deck plugin adds better upscaling](https://www.xda-developers.com/free-steam-deck-plugin-adds-better-upscaling/)
-- **Notebookcheck** — [Steam Deck mod enables FSR 3.1 frame generation for unsupported games](https://www.notebookcheck.net/New-Steam-Deck-mod-enables-FSR-3-1-frame-generation-for-unsupported-games.953622.0.html)
-- **Digital Trends** — [Steam Deck frame generation impressions](https://www.digitaltrends.com/computing/steam-deck-frame-generation-impressions/)
-- **How-To Geek** — [Double your Steam Deck frame rate with this FSR 3 frame gen mod](https://www.howtogeek.com/double-your-steam-deck-frame-rate-with-this-fsr-3-frame-gen-mod/)
-- **PC Guide** — [FSR 4 arrives on Steam Deck thanks to Decky Framegen](https://www.pcguide.com/news/fsr-4-arrives-on-steam-deck-thanks-to-decky-framegen-and-it-makes-upscaling-look-way-better/)
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=xda-developers.com&sz=128" alt="XDA Developers" />
+  <strong>XDA Developers</strong> — <a href="https://www.xda-developers.com/free-steam-deck-plugin-adds-better-upscaling/">Free Steam Deck plugin adds better upscaling</a>
+</p>
 
-### Decky LSFG-VK
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=wccftech.com&sz=128" alt="Wccftech" />
+  <strong>Wccftech</strong> — <a href="https://wccftech.com/steam-deck-amd-fsr-3-frame-generation-mod/">Steam Deck Gets AMD FSR 3 Frame Generation Mod</a>
+</p>
 
-- **GamingOnLinux** — [LSFG-VK Lossless Scaling frame-gen now available in the Decky Plugin Store](https://www.gamingonlinux.com/2025/11/lsfg-vk-lossless-scaling-frame-gen-now-available-in-the-decky-plugin-store/)
-- **GamingOnLinux** — [Lossless Scaling Frame Gen gets a Decky Loader Steam Deck plugin](https://www.gamingonlinux.com/2025/07/lossless-scaling-frame-gen-gets-a-decky-loader-steam-deck-plugin-but-theres-drama/)
-- **Steam Deck HQ** — [Lossless Scaling frame generation plugin released to controversy](https://steamdeckhq.com/news/the-lossless-scaling-fg-plugin-has-released-to-controversy/)
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=videocardz.com&sz=128" alt="VideoCardz" />
+  <strong>VideoCardz</strong> — <a href="https://videocardz.com/newz/gamenative-adds-lossless-scaling-multi-frame-generation-for-steam-games-on-android">GameNative adds Lossless Scaling frame generation for Steam games on Android</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=128" alt="Notebookcheck" />
+  <strong>Notebookcheck</strong> — <a href="https://www.notebookcheck.net/New-Steam-Deck-mod-enables-FSR-3-1-frame-generation-for-unsupported-games.953622.0.html">Steam Deck mod enables FSR 3.1 frame generation for unsupported games</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=rockpapershotgun.com&sz=128" alt="Rock Paper Shotgun" />
+  <strong>Rock Paper Shotgun</strong> — <a href="https://www.rockpapershotgun.com/you-can-now-try-frame-generation-in-any-steam-deck-game-with-all-the-thrilling-disclaimers-and-caveats-of-desktop-frame-gen">Frame generation in any Steam Deck game</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=pcguide.com&sz=128" alt="PC Guide" />
+  <strong>PC Guide</strong> — <a href="https://www.pcguide.com/news/fsr-4-arrives-on-steam-deck-thanks-to-decky-framegen-and-it-makes-upscaling-look-way-better/">FSR 4 arrives on Steam Deck thanks to Decky Framegen</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=gamingonlinux.com&sz=128" alt="GamingOnLinux" />
+  <strong>GamingOnLinux</strong> — <a href="https://www.gamingonlinux.com/2025/11/lsfg-vk-lossless-scaling-frame-gen-now-available-in-the-decky-plugin-store/">LSFG-VK now available in the Decky Plugin Store</a> · <a href="https://www.gamingonlinux.com/2025/07/lossless-scaling-frame-gen-gets-a-decky-loader-steam-deck-plugin-but-theres-drama/">Lossless Scaling Frame Gen gets a Decky Loader plugin</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=steamdeckhq.com&sz=128" alt="Steam Deck HQ" />
+  <strong>Steam Deck HQ</strong> — <a href="https://steamdeckhq.com/news/a-plugin-to-install-the-fsr-3-frame-gen-mod-on-steam-deck-is-coming/">Decky plugin for FSR 3 frame gen mod coming</a> · <a href="https://steamdeckhq.com/news/the-lossless-scaling-fg-plugin-has-released-to-controversy/">Lossless Scaling frame generation plugin released to controversy</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=criticalhits.com.br&sz=128" alt="Critical Hits" />
+  <strong>Critical Hits</strong> — <a href="https://criticalhits.com.br/games/agora-e-possivel-ativar-multi-frame-generation-para-jogos-da-steam-no-android/">Multi-frame generation for Steam games on Android</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=hardwarepremium.com&sz=128" alt="Hardware Premium" />
+  <strong>Hardware Premium</strong> — <a href="https://www.hardwarepremium.com/noticias/42567/gamenative-frame-generation-android/">GameNative adds frame generation on Android</a>
+</p>
+
+<p>
+  <img width="24" height="24" src="https://www.google.com/s2/favicons?domain=androidpctv.com&sz=128" alt="AndroidPCtv" />
+  <strong>AndroidPCtv</strong> — <a href="https://androidpctv.com/gamenative-091/">GameNative 0.9.1 release coverage</a>
+</p>
 
 ---
 
@@ -139,59 +161,116 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 
 ### Featured mention
 
-<div align="center">
+<p align="center">
+  <a href="https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES&t=735"><img width="360" src="https://img.youtube.com/vi/fqDWJCW06Ks/hqdefault.jpg" alt="Digital Foundry mention" /></a><br>
+  <a href="https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES&t=735">Leaked FSR4 INT8 Test: RDNA 3, RDNA 2, Steam Deck, Asus ROG Ally, Nvidia + Xbox Series X Simulation</a><br>
+  <sub>Digital Foundry mention at 12:15</sub>
+</p>
 
-<a href="https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES&t=735"><img width="420" src="https://img.youtube.com/vi/fqDWJCW06Ks/hqdefault.jpg" alt="Digital Foundry mention" /></a>
+### GameNative implementations and contributions
 
-<br>
+<p align="center">
+  <a href="https://youtu.be/Az3FvgC3uDU?t=922"><img width="360" src="https://img.youtube.com/vi/Az3FvgC3uDU/hqdefault.jpg" alt="Mr. Sujano GameNative mention" /></a><br>
+  <a href="https://youtu.be/Az3FvgC3uDU?t=922">Nintendo Strikes Again! Switch Emulator GitHub Removed, Windows Gaming on Android Gets Huge Upgrade</a><br>
+  <sub>Mr. Sujano mention at 15:22</sub>
+</p>
 
-**Digital Foundry** — Decky Framegen plugin mentioned at 12:15
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bBOXpBOArWw"><img width="360" src="https://img.youtube.com/vi/bBOXpBOArWw/hqdefault.jpg" alt="LSFG-VK" /></a><br>
+  <a href="https://www.youtube.com/watch?v=bBOXpBOArWw">LSFG-VK</a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BcYJX95gX34"><img width="360" src="https://img.youtube.com/vi/BcYJX95gX34/hqdefault.jpg" alt="Subnautica Below Zero played with GameNative" /></a><br>
+  <a href="https://www.youtube.com/watch?v=BcYJX95gX34">Subnautica: Below Zero (Steam Version) played with GameNative on RedMagic 11 Pro</a>
+</p>
 
-### GameNative / LSFG-VK
-
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=bBOXpBOArWw"><img width="260" src="https://img.youtube.com/vi/bBOXpBOArWw/hqdefault.jpg" alt="LSFG-VK GameNative video" /></a>
-<a href="https://www.youtube.com/watch?v=BcYJX95gX34"><img width="260" src="https://img.youtube.com/vi/BcYJX95gX34/hqdefault.jpg" alt="GameNative 0.9.1 video" /></a>
-<a href="https://www.youtube.com/watch?v=JAT083oL5QA"><img width="260" src="https://img.youtube.com/vi/JAT083oL5QA/hqdefault.jpg" alt="GameNative LSFG-VK video" /></a>
-
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JAT083oL5QA"><img width="360" src="https://img.youtube.com/vi/JAT083oL5QA/hqdefault.jpg" alt="Lossless Scaling on Android" /></a><br>
+  <a href="https://www.youtube.com/watch?v=JAT083oL5QA">Lossless Scaling on Android out now! With Gamenative/WinNative! - Your Guide and fix</a>
+</p>
 
 ### Decky LSFG-VK
 
-<div align="center">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=0KCXxhD-Y8s"><img width="360" src="https://img.youtube.com/vi/0KCXxhD-Y8s/hqdefault.jpg" alt="How To Use Lossless Scaling On Steam Deck" /></a><br>
+  <a href="https://www.youtube.com/watch?v=0KCXxhD-Y8s">How To Use Lossless Scaling On Steam Deck: First Look & Setup</a>
+</p>
 
-<a href="https://www.youtube.com/watch?v=0KCXxhD-Y8s"><img width="260" src="https://img.youtube.com/vi/0KCXxhD-Y8s/hqdefault.jpg" alt="Lossless Scaling Decky Plugin" /></a>
-<a href="https://www.youtube.com/watch?v=rhkCev9M6lM"><img width="260" src="https://img.youtube.com/vi/rhkCev9M6lM/hqdefault.jpg" alt="Lossless Scaling Steam Deck Plugin Update" /></a>
-<a href="https://www.youtube.com/watch?v=1PkUCb5uTMg"><img width="260" src="https://img.youtube.com/vi/1PkUCb5uTMg/hqdefault.jpg" alt="Lossless Scaling on Steam Deck" /></a>
-<a href="https://www.youtube.com/watch?v=Pm38AJb-TwQ"><img width="260" src="https://img.youtube.com/vi/Pm38AJb-TwQ/hqdefault.jpg" alt="Beginner's Guide" /></a>
-<a href="https://www.youtube.com/watch?v=RfW86p4t0YA"><img width="260" src="https://img.youtube.com/vi/RfW86p4t0YA/hqdefault.jpg" alt="How To Install" /></a>
-<a href="https://www.youtube.com/watch?v=SXnqmHoUejg"><img width="260" src="https://img.youtube.com/vi/SXnqmHoUejg/hqdefault.jpg" alt="Is Here" /></a>
-<a href="https://www.youtube.com/watch?v=yHqYqqd27jc"><img width="260" src="https://img.youtube.com/vi/yHqYqqd27jc/hqdefault.jpg" alt="Install Guide" /></a>
-<a href="https://www.youtube.com/watch?v=3cTFfln13pc"><img width="260" src="https://img.youtube.com/vi/3cTFfln13pc/hqdefault.jpg" alt="Double Your FPS" /></a>
-<a href="https://www.youtube.com/watch?v=_wV2X7ZNFoo"><img width="260" src="https://img.youtube.com/vi/_wV2X7ZNFoo/hqdefault.jpg" alt="Black Myth Wukong" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rhkCev9M6lM"><img width="360" src="https://img.youtube.com/vi/rhkCev9M6lM/hqdefault.jpg" alt="Lossless Scaling Steam Deck Plugin Update" /></a><br>
+  <a href="https://www.youtube.com/watch?v=rhkCev9M6lM">Working Together: Lossless Scaling Steam Deck Plugin Update!</a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1PkUCb5uTMg"><img width="360" src="https://img.youtube.com/vi/1PkUCb5uTMg/hqdefault.jpg" alt="Lossless Scaling on Steam Deck" /></a><br>
+  <a href="https://www.youtube.com/watch?v=1PkUCb5uTMg">Lossless Scaling on Steam Deck - Frame Gen Tested in 12 Games!</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Pm38AJb-TwQ"><img width="360" src="https://img.youtube.com/vi/Pm38AJb-TwQ/hqdefault.jpg" alt="Steam Deck LSFG VK Decky Plugin Beginner's Guide" /></a><br>
+  <a href="https://www.youtube.com/watch?v=Pm38AJb-TwQ">Steam Deck LSFG VK Decky Plugin Beginner's Guide</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=RfW86p4t0YA"><img width="360" src="https://img.youtube.com/vi/RfW86p4t0YA/hqdefault.jpg" alt="Lossless Scaling Frame Generation Plugin Is Here" /></a><br>
+  <a href="https://www.youtube.com/watch?v=RfW86p4t0YA">Lossless Scaling Frame Generation Plugin Is HERE For The STEAM DECK! How To Install!</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SXnqmHoUejg"><img width="360" src="https://img.youtube.com/vi/SXnqmHoUejg/hqdefault.jpg" alt="Lossless Scaling Frame Generation On Steam Deck is Here" /></a><br>
+  <a href="https://www.youtube.com/watch?v=SXnqmHoUejg">Lossless Scaling Frame Generation On Steam Deck is Here!</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yHqYqqd27jc"><img width="360" src="https://img.youtube.com/vi/yHqYqqd27jc/hqdefault.jpg" alt="Lossless Scaling Steam Deck Install Guide" /></a><br>
+  <a href="https://www.youtube.com/watch?v=yHqYqqd27jc">Lossless Scaling Steam Deck Install Guide</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3cTFfln13pc"><img width="360" src="https://img.youtube.com/vi/3cTFfln13pc/hqdefault.jpg" alt="Double Your FPS Lossless Scaling On The Steam Deck" /></a><br>
+  <a href="https://www.youtube.com/watch?v=3cTFfln13pc">Double Your FPS! Lossless Scaling On The Steam Deck Is Amazing</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_wV2X7ZNFoo"><img width="360" src="https://img.youtube.com/vi/_wV2X7ZNFoo/hqdefault.jpg" alt="Black Myth Wukong Lossless Scaling Steam Deck" /></a><br>
+  <a href="https://www.youtube.com/watch?v=_wV2X7ZNFoo">Black Myth Wukong Lossless Scaling Steam Deck: LSFG-VK Frame Generation Performance Tested</a>
+</p>
 
 ### Decky-Framegen
 
-<div align="center">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=fGgc2CY6occ"><img width="360" src="https://img.youtube.com/vi/fGgc2CY6occ/hqdefault.jpg" alt="Frame Generation Plugin for Steam Deck SteamOS Decky Loader" /></a><br>
+  <a href="https://www.youtube.com/watch?v=fGgc2CY6occ">Frame Generation Plugin for Steam Deck SteamOS Decky Loader</a>
+</p>
 
-<a href="https://www.youtube.com/watch?v=fGgc2CY6occ"><img width="260" src="https://img.youtube.com/vi/fGgc2CY6occ/hqdefault.jpg" alt="Frame Generation Plugin" /></a>
-<a href="https://www.youtube.com/watch?v=_nYwcfK9Xs8"><img width="260" src="https://img.youtube.com/vi/_nYwcfK9Xs8/hqdefault.jpg" alt="Double FPS Mod" /></a>
-<a href="https://www.youtube.com/watch?v=o_TkF-Eiq3M"><img width="260" src="https://img.youtube.com/vi/o_TkF-Eiq3M/hqdefault.jpg" alt="FREE Frame Generation" /></a>
-<a href="https://www.youtube.com/watch?v=g_kWxEpWRvg"><img width="260" src="https://img.youtube.com/vi/g_kWxEpWRvg/hqdefault.jpg" alt="Amazing Frame Gen" /></a>
-<a href="https://www.youtube.com/watch?v=dzbyIfDzBSU"><img width="260" src="https://img.youtube.com/vi/dzbyIfDzBSU/hqdefault.jpg" alt="Just Got Better" /></a>
-<a href="https://www.youtube.com/watch?v=zbkgnZlktI4"><img width="260" src="https://img.youtube.com/vi/zbkgnZlktI4/hqdefault.jpg" alt="Test and Guide" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_nYwcfK9Xs8"><img width="360" src="https://img.youtube.com/vi/_nYwcfK9Xs8/hqdefault.jpg" alt="DOUBLE FPS on Steam Deck" /></a><br>
+  <a href="https://www.youtube.com/watch?v=_nYwcfK9Xs8">DOUBLE FPS on Steam Deck with New Decky Loader DLSS Frame Gen Plugin!!</a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=o_TkF-Eiq3M"><img width="360" src="https://img.youtube.com/vi/o_TkF-Eiq3M/hqdefault.jpg" alt="FREE Steam Deck Frame Generation" /></a><br>
+  <a href="https://www.youtube.com/watch?v=o_TkF-Eiq3M">FREE Steam Deck Frame Generation! Frame Gen 2X FPS Mod DLSS To FSR3</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=g_kWxEpWRvg"><img width="360" src="https://img.youtube.com/vi/g_kWxEpWRvg/hqdefault.jpg" alt="New Steam Deck Frame Generation Mod is Amazing" /></a><br>
+  <a href="https://www.youtube.com/watch?v=g_kWxEpWRvg">New Steam Deck Frame Generation Mod is Amazing!! (Full Guide)</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dzbyIfDzBSU"><img width="360" src="https://img.youtube.com/vi/dzbyIfDzBSU/hqdefault.jpg" alt="Frame Generation On The Steam Deck Just Got A Lot Better" /></a><br>
+  <a href="https://www.youtube.com/watch?v=dzbyIfDzBSU">Frame Generation On The Steam Deck Just Got A Lot Better!</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=zbkgnZlktI4"><img width="360" src="https://img.youtube.com/vi/zbkgnZlktI4/hqdefault.jpg" alt="FRAME GEN now on STEAM DECK" /></a><br>
+  <a href="https://www.youtube.com/watch?v=zbkgnZlktI4">FRAME GEN now on STEAM DECK! Decky Loader Frame Gen mod test and guide.</a>
+</p>
 
 ---
 
-## Interviews and Mentions
+## Interviews
 
 [![Gardiner Bryant](https://img.shields.io/badge/Gardiner%20Bryant-SpruceOS%20Interview-6366f1?style=flat-square)](https://gardinerbryant.com/talking-handheld-linux-with-the-spruce-sprig-team/)
-[![Mr Sujano](https://img.shields.io/badge/Mr%20Sujano-GameNative%20UI%2FUX%20%26%20Amazon-FF6B6B?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/Az3FvgC3uDU?t=922)
-[![Android Authority](https://img.shields.io/badge/Android%20Authority-GameNative%20Features-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.androidauthority.com/gamenative-0-8-0-pre-release-3646691/)
