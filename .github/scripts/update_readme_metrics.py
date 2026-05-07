@@ -35,8 +35,8 @@ GITHUB_PLUGIN_REPOS = {
         "owner": "xXJSONDeruloXx",
         "repo": "decky-lsfg-vk",
         "color": "0ea5e9",
-        "asset_tokens": ("deckylsfgvk",),
-        "exclude_tokens": ("losslessscaling",),
+        "asset_tokens": ("deckylsfgvk", "losslessscaling"),
+        "exclude_tokens": (),
     },
 }
 
