@@ -13,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update Decky plugin install counts
+      - name: Update Decky plugin metrics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: python3 .github/scripts/update_readme_metrics.py
       - name: Commit changes
         run: |

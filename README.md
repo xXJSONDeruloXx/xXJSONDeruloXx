@@ -35,7 +35,9 @@ Steam Deck Decky plugin for installing and managing FSR/OptiScaler-based frame g
 [![Repo](https://img.shields.io/badge/repo-Decky--Framegen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xXJSONDeruloXx/Decky-Framegen)
 ![Stars](https://img.shields.io/github/stars/xXJSONDeruloXx/Decky-Framegen?style=flat-square&label=stars&color=6366f1)
 ![Forks](https://img.shields.io/github/forks/xXJSONDeruloXx/Decky-Framegen?style=flat-square&label=forks&color=6366f1)
-![Decky installs](https://img.shields.io/badge/Decky%20installs-298%2C602-6366f1?style=flat-square&logo=steam&logoColor=white)
+![Decky Store downloads](https://img.shields.io/badge/Decky--Framegen%20downloads-298%2C602-6366f1?style=flat-square&logo=steam&logoColor=white)
+![Decky Store updates](https://img.shields.io/badge/Decky--Framegen%20updates-169%2C258-6366f1?style=flat-square&logo=steam&logoColor=white)
+![GitHub downloads](https://img.shields.io/badge/Decky--Framegen%20GitHub%20downloads-4%2C051%2C920-6366f1?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
@@ -46,18 +48,26 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 [![Repo](https://img.shields.io/badge/repo-decky--lsfg--vk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xXJSONDeruloXx/decky-lsfg-vk)
 ![Stars](https://img.shields.io/github/stars/xXJSONDeruloXx/decky-lsfg-vk?style=flat-square&label=stars&color=0ea5e9)
 ![Forks](https://img.shields.io/github/forks/xXJSONDeruloXx/decky-lsfg-vk?style=flat-square&label=forks&color=0ea5e9)
-![Decky installs](https://img.shields.io/badge/Decky%20installs-196%2C827-0ea5e9?style=flat-square&logo=steam&logoColor=white)
+![Decky Store downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20downloads-196%2C827-0ea5e9?style=flat-square&logo=steam&logoColor=white)
+![Decky Store updates](https://img.shields.io/badge/Decky%20LSFG--VK%20updates-135%2C148-0ea5e9?style=flat-square&logo=steam&logoColor=white)
+![GitHub downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20GitHub%20downloads-532%2C357-0ea5e9?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
-### Decky plugin installs
+### Decky plugin metrics
 
-![Total installs](https://img.shields.io/badge/total%20Decky%20installs-534%2C904-22c55e?style=for-the-badge&logo=steam&logoColor=white)
+![Total Decky Store downloads](https://img.shields.io/badge/total%20Decky%20Store%20downloads-534%2C904-22c55e?style=for-the-badge&logo=steam&logoColor=white)
+![Total Decky Store updates](https://img.shields.io/badge/total%20Decky%20Store%20updates-310%2C485-14b8a6?style=for-the-badge&logo=steam&logoColor=white)
+![Total GitHub release downloads](https://img.shields.io/badge/total%20GitHub%20release%20downloads-4%2C584%2C277-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Decky-Framegen](https://img.shields.io/badge/Decky--Framegen-298%2C602-6366f1?style=flat-square)
-![Decky LSFG-VK](https://img.shields.io/badge/Decky%20LSFG--VK-196%2C827-0ea5e9?style=flat-square)
-![Decky-Lookup](https://img.shields.io/badge/Decky--Lookup-23%2C298-f59e0b?style=flat-square)
-![Crosshair](https://img.shields.io/badge/Crosshair-16%2C177-ef4444?style=flat-square)
+![Decky-Framegen downloads](https://img.shields.io/badge/Decky--Framegen%20downloads-298%2C602-6366f1?style=flat-square)
+![Decky-Framegen updates](https://img.shields.io/badge/Decky--Framegen%20updates-169%2C258-6366f1?style=flat-square)
+![Decky LSFG-VK downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20downloads-196%2C827-0ea5e9?style=flat-square)
+![Decky LSFG-VK updates](https://img.shields.io/badge/Decky%20LSFG--VK%20updates-135%2C148-0ea5e9?style=flat-square)
+![Decky-Lookup downloads](https://img.shields.io/badge/Decky--Lookup%20downloads-23%2C298-f59e0b?style=flat-square)
+![Decky-Lookup updates](https://img.shields.io/badge/Decky--Lookup%20updates-1%2C998-f59e0b?style=flat-square)
+![Crosshair downloads](https://img.shields.io/badge/Crosshair%20downloads-16%2C177-ef4444?style=flat-square)
+![Crosshair updates](https://img.shields.io/badge/Crosshair%20updates-4%2C081-ef4444?style=flat-square)
 
 </div>
 
