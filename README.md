@@ -36,7 +36,7 @@ Steam Deck Decky plugin for installing and managing FSR/OptiScaler-based frame g
 ![Stars](https://img.shields.io/github/stars/xXJSONDeruloXx/Decky-Framegen?style=flat-square&label=stars&color=6366f1)
 ![Forks](https://img.shields.io/github/forks/xXJSONDeruloXx/Decky-Framegen?style=flat-square&label=forks&color=6366f1)
 ![Decky Store downloads](https://img.shields.io/badge/Decky--Framegen%20Decky%20Store%20downloads-302%2C572-6366f1?style=flat-square&logo=steam&logoColor=white)
-![GitHub plugin ZIP downloads](https://img.shields.io/badge/Decky--Framegen%20GitHub%20plugin%20ZIP%20downloads-241%2C315-6366f1?style=flat-square&logo=github&logoColor=white)
+![GitHub plugin ZIP downloads](https://img.shields.io/badge/Decky--Framegen%20GitHub%20plugin%20ZIP%20downloads-241%2C492-6366f1?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
@@ -48,13 +48,13 @@ Decky plugin for Lossless Scaling Frame Generation via lsfg-vk on Steam Deck and
 ![Stars](https://img.shields.io/github/stars/xXJSONDeruloXx/decky-lsfg-vk?style=flat-square&label=stars&color=0ea5e9)
 ![Forks](https://img.shields.io/github/forks/xXJSONDeruloXx/decky-lsfg-vk?style=flat-square&label=forks&color=0ea5e9)
 ![Decky Store downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20Decky%20Store%20downloads-204%2C354-0ea5e9?style=flat-square&logo=steam&logoColor=white)
-![GitHub plugin ZIP downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20GitHub%20plugin%20ZIP%20downloads-537%2C136-0ea5e9?style=flat-square&logo=github&logoColor=white)
+![GitHub plugin ZIP downloads](https://img.shields.io/badge/Decky%20LSFG--VK%20GitHub%20plugin%20ZIP%20downloads-537%2C817-0ea5e9?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
 ### Plugin download total
 
-![Total tracked plugin downloads](https://img.shields.io/badge/total%20tracked%20plugin%20downloads-1%2C325%2C245-22c55e?style=for-the-badge&logo=github&logoColor=white)
+![Total tracked plugin downloads](https://img.shields.io/badge/total%20tracked%20plugin%20downloads-1%2C326%2C103-22c55e?style=for-the-badge&logo=github&logoColor=white)
 
 <sub>Includes Decky Store downloads for tracked plugins plus GitHub release downloads for plugin ZIP assets only. Binary/dependency assets are excluded.</sub>
 
