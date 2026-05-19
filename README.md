@@ -2,8 +2,6 @@
 
 # xXJSONDeruloXx
 
-*Steam Deck modder · Open source developer · Games & Code*
-
 <br>
 
 <a href="https://youtu.be/fqDWJCW06Ks?si=i5CWPhz_TqEdU7ES&t=735">
